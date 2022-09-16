@@ -5,6 +5,7 @@ public class Students {
 
 public Students(){
 	System.out.println("Calling Constructor");
+	System.out.println("Calling Constructor");
 
 }
 public static void main(String[]args)
